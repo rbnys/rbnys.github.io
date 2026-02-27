@@ -57,7 +57,7 @@ Minecraft server list website I designed and built from scratch back in 2013. Se
 **Tech:** HTML/CSS, JavaScript/jQuery, PHP, MySQL
 
 **Screenshot:**
-![MC-List screenshot](https://i.imgur.com/vlm6jGP.png)
+![MC-List screenshot](https://i.imgur.com/u5Nbkcb.png)
 
 ---
 

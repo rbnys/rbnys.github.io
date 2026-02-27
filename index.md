@@ -1,10 +1,10 @@
 ---
-title: Reed Nystrom — Portfolio
+title: Reed Nystrom
 ---
 
-# Reed Nystrom
+# Reed Nystrom — Portfolio
 
-Freelance programmer (since 2012) with experience in Java, web development, and building complete products end-to-end.
+Freelance programmer (since 2012) with experience in Java, web development, and building complete products from scratch.
 
 - Email: [reednystrom@gmail.com](mailto:reednystrom@gmail.com)  
 - GitHub: [https://github.com/rbnys](https://github.com/rbnys)
@@ -42,16 +42,22 @@ Java software that automatically scrapes app data from Google Play, and helps se
 ### BBHack (NES ROM hacking tool)
 A ROM hacking/editor tool for Earthbound Zero I built from scratch. It analyzes the binary and presents map/tile/object/script data in a UI for editing.
 
-**Link:** https://forum.starmen.net/forum/Community/PKHack/BBHack-v1-0-Earthbound-Zero-Map-Editor-More
+**Link:** [Starmen.net Forums](https://forum.starmen.net/forum/Community/PKHack/BBHack-v1-0-Earthbound-Zero-Map-Editor-More)
 
 **Repo:** [https://github.com/rbnys/BBHack](https://github.com/rbnys/BBHack)
+
+**Screenshot:**
+[![BBHack screenshot](https://i.imgur.com/pOxrJjM.png)](https://i.imgur.com/pOxrJjM.png)
 
 ---
 
 ### MC List (Minecraft server list website)
-Minecraft server list website I designed and built from scratch back in 2013.
+Minecraft server list website I designed and built from scratch back in 2013. Server searching, automatic server pinging, and paid sponsored listings. Website is no longer online, but a screenshot is shown below.
 
 **Tech:** HTML/CSS, JavaScript/jQuery, PHP, MySQL
+
+**Screenshot:**
+![MC-List screenshot](https://i.imgur.com/vlm6jGP.png)
 
 ---
 
